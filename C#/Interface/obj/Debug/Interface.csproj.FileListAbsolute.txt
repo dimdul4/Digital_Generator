@@ -1,0 +1,15 @@
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\bin\Debug\Interface.exe.config
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\obj\Debug\WindowsFormsApplication1.Form1_load.resources
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\obj\Debug\Interface.exe.licenses
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\bin\Debug\Interface.exe
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\bin\Debug\Interface.pdb
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\bin\Debug\FTD2XX_NET.dll
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\bin\Debug\FTD2XX_NET.xml
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\obj\Debug\Interface.exe
+C:\Users\home\Downloads\С#-20220910T221051Z-001\С#\work\Projects\C#\Interface_new\Backup\Interface\obj\Debug\Interface.pdb
+C:\Users\home\Desktop\NEW\Interface\bin\Debug\Interface.exe.config
+C:\Users\home\Desktop\NEW\Interface\obj\Debug\Interface.exe
+C:\Users\home\Desktop\NEW\Interface\obj\Debug\Interface.pdb
